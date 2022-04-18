@@ -21,3 +21,13 @@ h2{
     text-align: center;
     margin: auto;
 }
+a{
+    border: 5px double maroon;
+    margin:auto; 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
