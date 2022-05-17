@@ -7,21 +7,49 @@ h1{
 }
 
 h2{
-    color:black;
+    color: RGB(56, 25, 13);
     text-align: center;
+    font-size: 50px;
+    margin-top: -5px;
 }
 
 #amogus{
     text-align: center;
     margin: auto;
+    color: maroon;
+    font-size: 100px;
 }
 
 #sus{
     display: inline-block;
     text-align: center;
     margin: auto;
+    color: maroon;
+    font-size: 100px;
+    padding-left: 200px;
+    padding-right:170px;
+    margin-top: -20px;
 }
-a{
+
+#sus2{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    color: maroon;
+    font-size: 100px;
+    margin-top: -20px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+ul{
+   list-style: none;
+   text-align: center;
+}
+
+li{
     border: 5px double maroon;
     margin:auto; 
     text-align: center;
@@ -30,4 +58,140 @@ a{
     padding-left: 50px;
     padding-right: 50px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: RGBA(56, 25, 13, .3);
+    display: inline;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border: 5px RGB(56, 25, 13);
+    border-style: groove;
+    border-spacing: 30px;
+    
+}
+
+.left{
+    display: inline block;
+    color: RGB(56, 25, 13);
+    font-size: 50px;
+    padding-left: 160px;
+    margin-top: -30px;
+}
+
+.right{
+    width: 40%;
+    padding-left: 960px;
+    display: inline;
+    margin-top: -800px;
+}
+
+#croissant{
+    width: 40%;
+    padding-left: 960px;
+    display: inline;
+    margin-top: -400px;
+}
+
+#tart{
+    width: 40%;
+    padding-left: 960px;
+    display: inline;
+    margin-top: -350px;
+}
+
+#churros{
+    width: 40%;
+    padding-left: 960px;
+    display: inline;
+    margin-top: -350px;
+}
+
+#coffee{
+    width: 40%;
+    padding-left: 160px;
+    display: inline;
+    margin-top: -30px;
+}
+
+#coffeep{
+    display: inline block;
+    color: RGB(56, 25, 13);
+    font-size: 50px;
+    padding-left: 960px;
+    margin-top: -430px;
+}
+
+#tea{
+    width: 40%;
+    padding-left: 960px;
+    display: inline;
+    margin-top: -340px;
+}
+
+#hotcoco{
+    width: 40%;
+    padding-left: 160px;
+    display: inline;
+    margin-top: -30px;
+}
+
+#hotcocop{
+    display: inline block;
+    color: RGB(56, 25, 13);
+    font-size: 50px;
+    padding-left: 960px;
+    margin-top: -1200px;
+    padding-bottom: 750px;
+}
+
+#waffles{
+    width: 40%;
+    padding-left: 160px;
+    display: inline;
+    margin-top: -30px;
+}
+
+#wafflesp{
+    display: inline block;
+    color: RGB(56, 25, 13);
+    font-size: 50px;
+    padding-left: 960px;
+    margin-top: -770px;
+    padding-bottom: 450px;
+}
+
+#sandwhich{
+    width: 40%;
+    padding-left: 160px;
+    display: inline;
+    margin-top: -30px;
+}
+
+#sandwhichp{
+    display: inline block;
+    color: RGB(56, 25, 13);
+    font-size: 50px;
+    padding-left: 960px;
+    margin-top: -1010px;
+    padding-bottom: 750px;
+}
+
+#bagel{
+    width: 40%;
+    padding-left: 160px;
+    display: inline;
+    margin-top: -30px; 
+}
+
+#bagelp{
+    display: inline block;
+    color: RGB(56, 25, 13);
+    font-size: 50px;
+    padding-left: 960px;
+    margin-top: -570px;
+    padding-bottom: 250px;
 }
